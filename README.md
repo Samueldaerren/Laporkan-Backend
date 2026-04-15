@@ -9,5 +9,6 @@ DB_PASSWORD=postgres
 JWT_SECRET=secretkey
 JWT_EXPIRES_IN=7d
 )
+
 3.jalankan **psql -U postgres -d laporkan_db -f src/config/db.sql** diterminal gunanya untuk ngepush schema database yang sudah dibuat
 4. jalankan **npm run dev** untuk melihat hasil nya
