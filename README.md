@@ -4,3 +4,6 @@
 4. jalankan **npm run dev** untuk melihat hasil nya
 
 >>>>>>>>>>>>>>>**FRONTENDNYA ADA DI LINK BERIKUT REPOSITORYNYA: https://github.com/ZahranFairuz/dicoding-capstone**
+>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>**PROJECT BRIEF ADA DI LINK BERIKUT: https://docs.google.com/document/d/1_Yn8rBtIklMU0HBqHVC_9WAMYstVwjrjMry8XKaRQ94/edit?usp=sharing**
+>>>>>>>>>>>>>>>
