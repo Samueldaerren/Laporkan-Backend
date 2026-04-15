@@ -3,4 +3,4 @@
 3.jalankan **psql -U postgres -d laporkan_db -f src/config/db.sql** diterminal gunanya untuk ngepush schema database yang sudah dibuat
 4. jalankan **npm run dev** untuk melihat hasil nya
 
->>>>>>>>>>>>>>>**FRONTENDNYA ADA DI LINK BERIKUT REPOSITORYNYA: https://github.com/ZahranFairuz/dicoding-capstone**<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>**FRONTENDNYA ADA DI LINK BERIKUT REPOSITORYNYA: https://github.com/ZahranFairuz/dicoding-capstone**
